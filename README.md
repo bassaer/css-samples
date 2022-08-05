@@ -1,3 +1,3 @@
 # css-samples
 
-- [balloon](/balloon/)
+- [balloon](https://bassaer.github.io/css-samples/balloon/)
